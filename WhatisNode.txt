@@ -1,0 +1,6 @@
+Node js frees Javascript from the confides of the browser. 
+It is built on Google's open source V8 Javascript engine and brings 
+event-driven programming to web servers. Since Node enables 
+development of fast web servers capable of asynchronous input/output
+ to be written in JavaScript, it has become very popular with web 
+ developers in relatively short period of time. 
